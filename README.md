@@ -27,7 +27,7 @@ Este é um projeto simples desenvolvido em React Native, que simula a experiênc
 ### Passos
 
 1. Clone este repositório:
-   git clone https://github.com/seu-usuario/biscoito-da-sorte.git
+   git clone https://github.com/jefferson-barroso/Biscoito-da-Sorte
 
 
 2. Navegue até o diretório do projeto:
